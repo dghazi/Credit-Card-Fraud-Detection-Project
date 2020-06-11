@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Project
-Team Project for CS 198 
+Team Project for UC Berkeley CS 198 (Spring 2017)
 - Key Concepts
   - Data Modeling & Analysis
   - Logistic Regression
